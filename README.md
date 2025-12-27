@@ -40,6 +40,18 @@
   <img title="JavaScript" style="width:4rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764730-a29a6935-596e-42d9-b3dc-44e8f21c10d9.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+<a href="#">
+  <img title="Java" style="width:4rem; height:auto" src="https://github.com/user-attachments/assets/b472393d-81c9-4f5e-beaf-35d279e6e940"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="#">
+  <img title="Kotlin" style="width:4rem; height:auto" src="https://github.com/user-attachments/assets/c6a9932c-193e-48b2-8c4f-f0a41e40f315"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 <br><br>
 
