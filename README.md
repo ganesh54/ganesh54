@@ -51,11 +51,7 @@ Currently focused on **enterprise mobile platforms, reliability at scale, and en
 ---
 
 
-
-<h1>
-⚡ Find Me on:
-</h1>
-
+## ⚡ Find Me on:
 
 <br>
  
