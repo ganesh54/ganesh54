@@ -6,7 +6,7 @@ Mobile Architect | Scalable App Systems | Technical Leader
 
 Mobile Architect with **12+ years in IT**, building **scalable, high-performance mobile systems** used by **millions of users**.
 I specialize in **Android architecture**, performance optimization, and translating complex business needs into **clean, production-grade mobile solutions**.
-Currently focused on **enterprise mobile platforms, reliability at scale, and engineering leadership**. 👨‍💻📱
+Currently focused on enterprise mobile platforms, reliability at scale, and engineering leadership. 👨‍💻📱
 
 ---
 
