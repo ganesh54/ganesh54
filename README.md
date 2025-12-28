@@ -1,6 +1,8 @@
-#  Hi 👋, I’m Ganesh Patil
+<h1 align="center"> Hi👋, I’m Ganesh Patil</h1>
 
-## Mobile Architect | Scalable App Systems | Technical Leader
+<h3 align="center">
+Mobile Architect | Scalable App Systems | Technical Leader
+</h3>
 
 Mobile Architect with **12+ years in IT**, building **scalable, high-performance mobile systems** used by **millions of users**.
 I specialize in **Android architecture**, performance optimization, and translating complex business needs into **clean, production-grade mobile solutions**.
